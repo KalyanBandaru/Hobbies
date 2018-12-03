@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This is Kalyan
-=======
 This is Eswar
->>>>>>> fcda93fbd36b4811cf6115781d7b856294433845
+This is Kalyan
