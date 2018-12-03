@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-My name is Raj
-=======
-This is Eswar
-This is Kalyan
->>>>>>> 2d360533eaca9c2fa5f42829d403869028002646
+Hi
